@@ -5,7 +5,8 @@ uses
   FMX.Forms,
   UnitLogin in 'UnitLogin.pas' {FrmLogin},
   UnitPrincipal in 'UnitPrincipal.pas' {FrmPrincipal},
-  UnitNotificacao in 'UnitNotificacao.pas' {FrmNotificacao};
+  UnitNotificacao in 'UnitNotificacao.pas' {FrmNotificacao},
+  UnitPedido in 'UnitPedido.pas' {FrmPedido};
 
 {$R *.res}
 
